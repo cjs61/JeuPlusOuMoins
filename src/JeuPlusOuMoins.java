@@ -24,7 +24,7 @@ public class JeuPlusOuMoins {
 	
 		}}
 		while( nombre_user != nombre_secret);
-
+			// il faudra lier ce jeu à la calcultrice
 		}
 	}
 	
