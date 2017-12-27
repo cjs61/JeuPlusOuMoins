@@ -13,7 +13,7 @@ public class JeuPlusOuMoins {
 			nombre_user = clavier.nextInt();
 			
 			if(nombre_user == nombre_secret){
-				System.out.println("Félicitation");
+				System.out.println("Félicitation vous avez trouvé");
 			}
 			
 			else if( nombre_user > nombre_secret){
